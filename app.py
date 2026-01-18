@@ -36,4 +36,4 @@ if st.button("Convert Now", type="primary"):
 
 # 6. Footer
 st.markdown("---")
-st.caption("🚀 Built with Python & Streamlit")
+#st.caption("🚀 Built with Python & Streamlit")
